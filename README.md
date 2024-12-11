@@ -3,8 +3,8 @@
 I'm a **Mobile Developer Enthusiast** passionate about building Android apps with **Kotlin**. I love creating user-friendly and performant applications while continuously learning new technologies in mobile development.
 
 ### 🔧 Technologies & Tools
-- **Languages:** Kotlin, Java
-- **Frameworks:** Android SDK, Jetpack Compose
+- **Languages:** Kotlin, Php
+- **Frameworks:** Android SDK, Jetpack Compose, CodeIgniter
 - **Tools:** Android Studio, Git, Gradle
 - **Databases:** Room, SQLite
 - **Other Skills:** MVVM Architecture
