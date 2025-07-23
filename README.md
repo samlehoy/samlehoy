@@ -4,7 +4,7 @@ I'm a **Mobile Developer Enthusiast** passionate about building Android apps wit
 
 ### 🔧 Technologies & Tools
 - **Languages:** Kotlin, Php
-- **Frameworks:** Jetpack Compose, CodeIgniter
+- **Frameworks:** Native Kotlin, Jetpack Compose, CodeIgniter
 - **Tools:** Android Studio, Visual Studio
 - **Databases:** Room, SQLite, Firebase Realtime Database
 - **Other Skills:** MVVM Architecture
